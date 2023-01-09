@@ -2,9 +2,9 @@
 
 Take a look around, test things out, checkout our DAO!
 
-### What is Croncat?
+### What is CronCat?
 
-Croncat provides a general purpose, fully autonomous network that enables scheduled function calls for blockchain contract execution. It allows any application to schedule logic to get executed in the future, once or many times, triggered by an approved “agent,” in an economically stable format.
+CronCat provides a general purpose, fully autonomous network that enables scheduled function calls for blockchain contract execution. It allows any application to schedule logic to get executed in the future, once or many times, triggered by an approved “agent,” in an economically stable format.
 
 ### Get Involved:
 
