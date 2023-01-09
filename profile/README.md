@@ -9,7 +9,10 @@ CronCat provides a general purpose, fully autonomous network that enables schedu
 ### Get Involved:
 
 - [Read Vision & Values](https://docs.cron.cat/docs/values-vision/): Why we exist & why you should care
-- [Join Us](https://docs.cron.cat/docs/join-croncat/): Many ways to help make croncat successful
+- [Join Us](https://docs.cron.cat/docs/join-croncat/): Many ways to help make CronCat successful
 - [Integrate](https://docs.cron.cat/docs/examples/): View example contracts on how to integrate
 - [DAO](https://app.astrodao.com/dao/croncat.sputnik-dao.near): See our DAO in action!
 
+## Using CronCat
+
+Please see [the Wiki](https://github.com/CronCats/.github/wiki/How-to-use-CronCat) for information on using CronCat.
