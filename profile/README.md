@@ -6,6 +6,8 @@ Take a look around, test things out, checkout our DAO!
 
 CronCat provides a general purrpose, fully autonomous network that enables scheduled function calls for blockchain contract execution. It allows any application to schedule logic to get executed in the future, once or many times, triggered by an approved “agent,” in an economically stable format.
 
+For more info, see [the wiki](https://github.com/CronCats/.github/wiki/How-to-use-CronCat).
+
 ### Get Involved:
 
 - [Read Vision & Values](https://docs.cron.cat/docs/values-vision/): Why we exist & why you should care
